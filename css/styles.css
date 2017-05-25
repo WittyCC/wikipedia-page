@@ -1,0 +1,46 @@
+.column {
+  width: 150px;
+  float: right;
+}
+
+.my-class {
+  margin: 5px;
+  border: 2px solid green;
+  padding: 4px;
+}
+
+img {
+  float: right;
+  zoom: 50%;
+}
+
+#globe {
+  zoom: 12%;
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: grey;
+}
+
+.panel1 {
+  background-color: #e6ffe6;
+}
+
+.panel2 {
+  background-color: #e6ffff;
+}
+
+.panel3 {
+  background-color: gainsboro;
+}
+
+#all_portals {
+  font-weight: bold;
+}
+
+#img2 {
+  zoom: 10%
+}
